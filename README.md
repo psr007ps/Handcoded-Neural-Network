@@ -1,5 +1,5 @@
 # Handcoded-Neural-Network
-Handcoded Artificial Neural Network for classifying digits less than or equal to 4 or greater than 4 
+Handcoded Artificial Neural Network for classifying digits less than or equal to 4 and greater than 4 
 
 Goals:
 
